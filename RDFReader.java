@@ -2,7 +2,7 @@
  * Author: Jorge Chong
  * Prof: Antoine Zimmermann
  * Subject: Semantic Web
- * 
+ * Hash: 0f2815204c1fdfa70fa26e7565dcee152dbb9d19
  */
 package semweb;
 import java.util.Iterator;
